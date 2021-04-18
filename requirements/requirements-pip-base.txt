@@ -1,0 +1,12 @@
+pycontractions == 2.0.1
+gensim >= 2.0
+pyemd >= 0.4.4
+language-check >= 1.0
+smart-open >= 1.8.1
+Cython == 0.29.21
+python-Levenshtein == 0.12.2
+tensorflow-hub == 0.11.0
+
+# Already satisfied
+numpy >= 1.11.3
+scipy >= 0.18.1
